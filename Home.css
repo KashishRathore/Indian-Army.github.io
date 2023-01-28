@@ -438,6 +438,10 @@ main{
     .logo img{
         width:60px;
     }
+     .box-main{
+        display: flex;
+        flex-direction: column;
+    }
     .secright{
         display: flex;
         justify-content: center;
@@ -453,6 +457,11 @@ main{
     .third-party {
         display: flex;
         flex-direction: column;
+    }
+	.footer-element{
+        display: flex;
+        flex-direction: column;
+        margin:0 10%;
     }
 }
 
