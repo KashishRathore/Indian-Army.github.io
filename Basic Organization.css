@@ -4,10 +4,9 @@
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7)url('file:///C:/Users/Dell/OneDrive/Desktop/KASHISH/images/th%20(7).jpg');
+    background: rgba(0, 0, 0, 0.7)url('https://tse3.mm.bing.net/th?id=OIP.O4WSCyknKjy_7WSjOSs4OgHaEK&pid=Api&P=0');
     background-size: cover;
     background-blend-mode: color-burn;
-    height:700px;
 }
 .navbar {
     display: flex;
@@ -467,6 +466,10 @@ footer{
     .logo img{
         width:60px;
     }
+    .box-main{
+        display: flex;
+        flex-direction: column;
+    }
     .list-content{
         display: flex;
         flex-direction:column;
@@ -497,5 +500,10 @@ footer{
     .first-description img{
         margin:1% 10%;
         width: 400px;
+    }
+    .footer-element{
+        display: flex;
+        flex-direction: column;
+        margin:0 10%;
     }
 }
