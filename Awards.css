@@ -276,6 +276,10 @@ li{
     .logo img{
         width:60px;
     }
+    .box-main{
+    display: flex;
+    flex-direction: column;
+    }
     .section1 div{
         display: flex;
         justify-content: flex-end;   
@@ -287,5 +291,10 @@ li{
     .third-party {
         display: flex;
         flex-direction: column;
+    }
+    .footer-element{
+        display: flex;
+        flex-direction: column;
+        margin:0 10%;
     }
 }
