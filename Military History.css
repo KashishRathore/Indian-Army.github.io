@@ -258,7 +258,7 @@ img{
      margin-left:5%;
      color: bisque;
      padding: 100px;
-     background:rgba(0, 0, 0, 0.7)url('file:///C:/Users/Dell/OneDrive/Desktop/KASHISH/images/th%20(8).jpg ');
+     background:rgba(0, 0, 0, 0.7)url('https://wallpaperaccess.com/full/1266768.jpg');
      background-size: cover;
      background-blend-mode: darken;
      line-height:40px;
@@ -486,4 +486,14 @@ img{
     .line1{
         margin-top:1100%;
     }  
+    .box-main{
+    display: flex;
+    flex-direction: column;
+   }
+    .footer-element{
+        display: flex;
+        flex-direction: column;
+        margin:0 10%;
+    }
+    
 }
