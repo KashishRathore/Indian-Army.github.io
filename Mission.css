@@ -383,6 +383,10 @@ span.article-number{
     .logo img{
         width:60px;
     }
+    .box-main{
+    display: flex;
+    flex-direction: column;
+    }
     .sectionsubtag{
         margin:5% 5%;
     }
@@ -438,6 +442,11 @@ span.article-number{
     .third-party {
         display: flex;
         flex-direction: column;
+    }
+    .footer-element{
+        display: flex;
+        flex-direction: column;
+        margin:0 10%;
     }
 }
 
