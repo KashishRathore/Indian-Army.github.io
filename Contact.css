@@ -4,7 +4,7 @@
 }
 
 body {
-    background: rgba(0, 0, 0, 0.7)url('file:///C:/Users/Dell/OneDrive/Desktop/KASHISH/images/image.jpg.webp');
+    background: rgba(0, 0, 0, 0.7)url('https://tse4.mm.bing.net/th?id=OIP.vKTx3Rx3mDcwt7ACkoV6vAHaEo&pid=Api&P=0');
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
@@ -140,7 +140,7 @@ body {
 }
 
 .youtube img {
-    width: 80px;
+    width: 55px;
 }
 
 .twitter img {
@@ -148,7 +148,7 @@ body {
 }
 
 .linkedin img {
-    width: 40px;
+    width: 55px;
 }
 
 .instagram img {
